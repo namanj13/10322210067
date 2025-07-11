@@ -131,8 +131,3 @@ logEvent("ACTION_NAME", { data });
 
 **Naman Jain**  
 
----
-
-## 📄 License
-
-This project is submitted for evaluation purposes only.
